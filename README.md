@@ -1,9 +1,9 @@
-TypeScript React "material-ui" Styled Components Demo
+TypeScript React Styled Components Demo
 =====================================================
 
-styled-components可以完美地与Material-ui一起工作
+styled-components如何包装React component
 
-https://material-ui.com/zh/guides/interoperability/#styled-components
+注意：对自定义的component进行多次wrap，类型依然正常!
 
 ```
 npm install
