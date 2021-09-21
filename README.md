@@ -1,9 +1,7 @@
-TypeScript React Styled Components Demo
+TypeScript React Styled Components Nested Demo
 =====================================================
 
-styled-components如何包装React component
-
-注意：对自定义的component进行多次wrap，类型依然正常!
+在styled-components中，可以定义嵌套的样式
 
 ```
 npm install
